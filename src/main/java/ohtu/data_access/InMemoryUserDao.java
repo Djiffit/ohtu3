@@ -36,7 +36,7 @@ public class InMemoryUserDao implements UserDao {
     }
 
     public void setUsers(List<User> users) {
-        this.users = users;
+                    this.users = users;
     }
 
     public List<User> getUsers() {
