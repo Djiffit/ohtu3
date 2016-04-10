@@ -1,0 +1,5 @@
+Retrospektiivit ovat tilanteita joissa tarkastellaan mitä on tapahtunut, ja kuinka siinä on onnistuttu sekä mitä tekemisessä voitaisiin parantaa, jotta jatkossa onnistuttaisiin paremmin.
+
+Glad, mad, sad tyylisessä retrospektiivipalaverissa kerätään tapahtumia, ongelmia ja huomioita ja luokitellaan niitä glad, sad ja mad kategorioiden mukaan. Näin pyritään saamaan kokonaiskuva siitä miltä kustakin jäsenestä tuntui tietyn sprintin aikana. Luokittelun jälkeen koko ryhmä äänestää tärkeimmistä aiheista, joita käydään läpi tärkeimmästä alkaen kunnes noin 60 minuutin aika on loppunut.
+
+Start, Stop, Continue, More of, Less of -Wheel on huomattavasti nopeampi retrospektiivi, jonka kesto voi vaihdella noin 10 minuutista 30 minuuttiin riippuen siitä, kuinka iso ryhmä sitä on suorittamassa. Näiden viiden kategorian mukaisesti eri ongelmia ja tapoja arvioidaan ja kaikkien arvion jälkeen suoritetaan hieman keskustelua syistä. Kaikkia kannustetaan kertomaan mitä kannattaisi alkaa tekemään ja mitä lakata tekemästä ja näin synnyttää keskustelua.
