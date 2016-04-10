@@ -1,4 +1,4 @@
-#Sun Apr 10 22:36:52 EEST 2016
+#Sun Apr 10 22:41:43 EEST 2016
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/data_access/UserDao.java=1460298324000
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/io/ConsoleIO.java=1460307684000
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/domain/User.java=1460298324000
@@ -6,6 +6,6 @@
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/io/StubIO.java=1460298324000
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/data_access/FileUserDAO.java=1460315253000
 configuration*?=09CC8AAA53BADF1B9EE7552F8FF2B7EDBEE2D024
-/home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/data_access/InMemoryUserDao.java=1460315253000
+/home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/data_access/InMemoryUserDao.java=1460317290000
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/services/AuthenticationService.java=1460309092000
 /home/konstaku/Documents/Ohjelmistotuotanto/ohtu-laskarit/viikko3/LoginEasyBv1/src/main/java/ohtu/App.java=1460308910000
